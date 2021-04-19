@@ -1,6 +1,6 @@
-[![GitHub license](https://img.shields.io/github/license/er-swapnil-waman/empty-react-app?color=rgb%2868%2C%20204%2C%2017%29)](https://github.com/gkhan205/cwg-react-starter/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/er-swapnil-waman/empty-react-app?color=rgb%252868%252C%2520204%252C%252017%2529)](https://github.com/gkhan205/cwg-react-starter/stargazers)
-![GitHub issues](https://img.shields.io/github/issues-raw/er-swapnil-waman/empty-react-app?color=rgb%2868%2C%20204%2C%2017%29)
+[![GitHub license](https://img.shields.io/github/license/thesologlobesightseer/empty-react-app?color=rgb%2868%2C%20204%2C%2017%29)](https://github.com/gkhan205/cwg-react-starter/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/thesologlobesightseer/empty-react-app?color=rgb%252868%252C%2520204%252C%252017%2529)](https://github.com/gkhan205/cwg-react-starter/stargazers)
+![GitHub issues](https://img.shields.io/github/issues-raw/thesologlobesightseer/empty-react-app?color=rgb%2868%2C%20204%2C%2017%29)
 
 ## Empty React App
 
