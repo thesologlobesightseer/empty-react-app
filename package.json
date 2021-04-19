@@ -8,8 +8,8 @@
     "url": "https://thesologlobesightseer.com"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/er-swapnil-waman/empty-react-app"
+    "type": "git",
+    "url": "https://github.com/er-swapnil-waman/empty-react-app"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/er-swapnil-waman"
