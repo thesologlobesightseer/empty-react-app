@@ -1,12 +1,19 @@
 {
-  "name": "empty-react-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "name": "@er-swapnil-waman/empty-react-app",
+  "description": "preconfigured boiler plate create react app",
   "author": {
     "name": "thesologlobesightseer",
     "email": "swapnil@thesologlobesightseer.com",
     "url": "https://thesologlobesightseer.com"
   },
-  "description": "Boiler plate create react app",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/er-swapnil-waman/empty-react-app"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/er-swapnil-waman"
+  },
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
