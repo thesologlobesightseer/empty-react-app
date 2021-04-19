@@ -1,12 +1,16 @@
-[![GitHub license](https://img.shields.io/github/license/thesologlobesightseer/empty-react-app?color=rgb%2868%2C%20204%2C%2017%29)](https://github.com/gkhan205/cwg-react-starter/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/thesologlobesightseer/empty-react-app?color=rgb%252868%252C%2520204%252C%252017%2529)](https://github.com/gkhan205/cwg-react-starter/stargazers)
+[![GitHub license](https://img.shields.io/github/license/thesologlobesightseer/empty-react-app?color=rgb%2868%2C%20204%2C%2017%29)](https://github.com/thesologlobesightseer/empty-react-app/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/thesologlobesightseer/empty-react-app?color=rgb%252868%252C%2520204%252C%252017%2529)](https://github.com/thesologlobesightseer/empty-react-app/stargazers)
 ![GitHub issues](https://img.shields.io/github/issues-raw/thesologlobesightseer/empty-react-app?color=rgb%2868%2C%20204%2C%2017%29)
 
 ## Empty React App
 
 > Pre-configured and Ready to use React Starter App. To save time in settings things up for new project. Almost everything needed is already configured. Just clone and start developing without wasting time in doing same stuffs for every project. You can use it with Create React App as Template
 
-### `npx create-react-app <app-name> --template cwg-react`
+### `npx create-react-app <app-name> --template empty-react-app`
+
+# or
+
+### `yarn create-react-app <app-name> --template empty-react-app`
 
 > [Read detailed explanation here](https://portfolio.thesologlobesightseer.com//empty-react-app-structure-2021/)
 
@@ -157,4 +161,23 @@ import { uniqBy } from 'lodash';
 import AppNavbar from 'library/common/components/AppNavbar';
 
 import './style.scss';
+```
+
+### NPM or YARN Commands
+
+```
+npm start - To start the application
+
+npm build - To build the application
+
+npm test - To test the application
+
+npm lint - To check the lint errors in the application
+
+npm lint:fix - To check the lint errors and fix the code from the application
+
+npm format - To format the code in nicer way using prettier
+
+npm isReady - This is the combination of format and lint:fix
+
 ```
