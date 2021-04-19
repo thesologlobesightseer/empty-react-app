@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "0.1.0",
   "name": "@thesologlobesightseer/empty-react-app",
   "description": "preconfigured boiler plate create react app",
   "author": {
@@ -8,10 +8,11 @@
     "url": "https://thesologlobesightseer.com"
   },
   "repository": {
-    "url": "git://github.com/thesologlobesightseer/empty-react-app.git"
+    "type": "git",
+    "url": "https://github.com/thesologlobesightseer/empty-react-app.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/thesologlobesightseer"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@babel/core": "7.9.0",
