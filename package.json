@@ -1,7 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.2",
   "name": "@thesologlobesightseer/empty-react-app",
   "description": "preconfigured boiler plate create react app",
+  "license": "MIT",
   "author": {
     "name": "thesologlobesightseer",
     "email": "swapnil@thesologlobesightseer.com",
