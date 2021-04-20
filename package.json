@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.0",
   "name": "@thesologlobesightseer/empty-react-app",
   "description": "preconfigured boiler plate create react app",
   "author": {
@@ -7,13 +7,39 @@
     "email": "swapnil@thesologlobesightseer.com",
     "url": "https://thesologlobesightseer.com"
   },
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "enzyme",
+    "eslint",
+    "redux",
+    "react-redux",
+    "react-router",
+    "react-router-dom",
+    "prettier",
+    "structured-template"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/thesologlobesightseer/empty-react-app.git"
   },
+  "bugs": {
+    "url": "https://github.com/thesologlobesightseer/empty-react-app/issues"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com"
+  },
+  "engines": {
+    "npm": ">=6.12.0",
+    "node": ">=12.13.0"
   },
   "dependencies": {
     "@babel/core": "7.9.0",

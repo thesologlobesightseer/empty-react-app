@@ -4,13 +4,13 @@
 
 ## Empty React App
 
-> Pre-configured and Ready to use React Starter App. To save time in settings things up for new project. Almost everything needed is already configured. Just clone and start developing without wasting time in doing same stuffs for every project. You can use it with Create React App as Template
+> Pre-configured and ready to use React Application. To save time in setting things up for new project. Almost everything needed is already configured. Either you can use create-react-app followed by --template empty-react-app or you can just clone and start developing without wasting time in doing same stuffs for every project. With create-react-app the command will be as below.
 
 ### `npx create-react-app <app-name> --template empty-react-app`
 
 # or
 
-### `yarn create-react-app <app-name> --template empty-react-app`
+### `yarn create react-app <app-name> --template empty-react-app`
 
 > [Read detailed explanation here](https://portfolio.thesologlobesightseer.com//empty-react-app-structure-2021/)
 
