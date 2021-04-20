@@ -24,3 +24,7 @@ yarn-error.log*
 
 .idea
 .vscode
+
+# cra-template
+/template
+template.json
