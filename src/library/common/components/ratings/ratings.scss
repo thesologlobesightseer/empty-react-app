@@ -1,0 +1,24 @@
+.ratings {
+    display: initial;
+    margin-left: 2rem;
+
+    button.star-button {
+        background-color: transparent;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        margin-bottom: 0px;
+
+        &.on {
+            color: #000;
+        }
+
+        &.off {
+            color: #ccc;
+        }
+
+        span.star {
+            font-size: 20px;
+        }
+    }
+}
